@@ -4,7 +4,7 @@
 
 Home Haven Sales Report, 2017.
 
-Introduction: 
+**Introduction: **
 The furniture industry is a dynamic and ever-evolving market, with consumers increasingly seeking stylish, functional, and affordable furniture for their homes. In today's growing world, furniture plays a key role in shaping our living and working spaces, thereby driving demand for high-quality products. Home Haven is known for offering a wide range of stylish and quality furniture pieces. With a commitment to quality and customer satisfaction, Home Haven Furniture remains a trusted name in the industry. 
 
 Objectives:
