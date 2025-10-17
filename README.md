@@ -1,5 +1,4 @@
 # Home-Haven-Furniture-Store-Sales-Analytics-Report.-
-Home Haven Furniture Store Sales Analytics Report. 
 
 <img width="745" height="427" alt="Home Haven Furniture Dashboard" src="https://github.com/user-attachments/assets/ab4e8c7c-15f8-46e7-ae5b-cef128eebe7b" />
 
